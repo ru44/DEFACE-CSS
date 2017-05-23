@@ -1,4 +1,6 @@
-/*By RMAH x HOOK*/
+/* RMxHK DEFACE CSS */
+/* Z3r0 F!\/3 */
+
 @font-face {
 	font-family: 'BebasNeueRegular';
 	font-weight: normal;
@@ -96,7 +98,7 @@ a{
 	text-shadow: 1px 1px 1px rgba(0,0,0,0.6);
 }
 /* Header Style */
-.rm-top{
+.xxx-top{
 	font-family: Arial, sans-serif;
 	line-height: 24px;
 	font-size: 11px;
@@ -110,20 +112,20 @@ a{
 	-webkit-box-shadow: 1px 0px 2px #000;
 	box-shadow: 1px 0px 2px #000;
 }
-.rm-top a{
+.xxx-top a{
 	padding: 0px 10px;
 	letter-spacing: 1px;
 	color: #ddd;
 	display: block;
 	float: left;
 }
-.rm-top a:hover{
+.xxx-top a:hover{
 	color: #fff;
 }
-.rm-top span.right{
+.xxx-top span.right{
 	float: right;
 }
-.rm-top span.right a{
+.xxx-top span.right a{
 	float: none;
 	display: inline;
 }
@@ -132,8 +134,8 @@ p.rm-hk{
 	padding: 15px 0px;
 }
 p.rm-hk a,
-p.rm-hk a.current-rm,
-p.rm-hk a.current-rm:hover{
+p.rm-hk a.current-xxx,
+p.rm-hk a.current-xxx:hover{
 	display: inline-block;
 	border: 1px solid #6d0019;
 	padding: 4px 10px 3px;
@@ -171,8 +173,8 @@ p.rm-hk a:active{
 		-moz-box-shadow:0px 1px 1px rgba(255,255,255,0.9);
 	box-shadow: 0px 1px 1px rgba(255,255,255,0.9);
 }
-p.rm-hk a.current-rm,
-p.rm-hk a.current-rm:hover{
+p.xxx-hacker a.current-xxx,
+p.xxx-hacker a.current-xxx:hover{
 	color: #A5727D;
 	background: #6d0019;
 }
@@ -182,7 +184,7 @@ p.rm-hk a.current-rm:hover{
 	.container > header{
 		text-align: center;
 	}
-	p.rm-hk {
+	p.xxx-hacker {
 		position: relative;
 		top: auto;
 		left: auto;
@@ -364,8 +366,8 @@ h3:first-line{
 #fb .fb_iframe_widget iframe{
 	position:relative
 }
-.rm-slideshow,
-.rm-slideshow:after {
+.xxx-slideshow,
+.xxx-slideshow:after {
 	position: fixed;
 	width: 100%;
 	height: 100%;
@@ -373,11 +375,11 @@ h3:first-line{
 	left: 0px;
 	z-index: 0;
 }
-.rm-slideshow:after {
+.xxx-slideshow:after {
 	content: '';
 	background: transparent url(http://i.imgur.com/M5Lj1gBr.jpg) repeat top left;
 }
-.rm-slideshow li span {
+.xxx-slideshow li span {
 	width: 100%;
 	height: 100%;
 	position: absolute;
@@ -396,7 +398,7 @@ h3:first-line{
 		-ms-animation: imageAnimation 36s linear infinite 0s;
 	animation: imageAnimation 36s linear infinite 0s;
 }
-.rm-slideshow li div {
+.xxx-slideshow li div {
 	z-index: 1000;
 	position: absolute;
 	bottom: 10px;
@@ -410,7 +412,7 @@ h3:first-line{
 		-ms-animation: titleAnimation 36s linear infinite 0s;
 	animation: titleAnimation 36s linear infinite 0s;
 }
-.rm-slideshow li div h3 {
+.xxx-slideshow li div h3 {
 	font-family:Orbitron;
 	font-size: 120px;
 	color:#000;
@@ -423,18 +425,18 @@ h3:first-line{
 		-webkit-animation-timing-function: linear; 
 	animation-timing-function: linear; 
 }
-.rm-slideshow li:nth-child(1) span { 
-	background-image: url();
-}
-.rm-slideshow li:nth-child(2) span {
+.xxx-slideshow li:nth-child(1) span { 
 	background-image: url(http://i.imgur.com/wFAP6Ya.jpg);
+}
+.xxx-slideshow li:nth-child(2) span {
+	background-image: url(http://i.imgur.com/IXTk1tu.jpg);
 		-webkit-animation-delay: 6s;
 		-moz-animation-delay: 6s;
 		-o-animation-delay: 6s;
 		-ms-animation-delay: 6s;
 	animation-delay: 6s;
 }
-.rm-slideshow li:nth-child(3) span {
+.xxx-slideshow li:nth-child(3) span {
 	background-image: url(http://i.imgur.com/sboJaK7.jpg);
 		-webkit-animation-delay: 12s;
 		-moz-animation-delay: 12s;
@@ -442,15 +444,15 @@ h3:first-line{
 		-ms-animation-delay: 12s;
 	animation-delay: 12s;
 }
-.rm-slideshow li:nth-child(4) span {
-	background-image: url(http://i.imgur.com/IXTk1tu.jpg);
+.xxx-slideshow li:nth-child(4) span {
+	background-image: url(http://i.imgur.com/acSq47H.jpg);
 		-webkit-animation-delay: 18s;
 		-moz-animation-delay: 18s;
 		-o-animation-delay: 18s;
 		-ms-animation-delay: 18s;
 	animation-delay: 18s;
 }
-.rm-slideshow li:nth-child(5) span {
+.xxx-slideshow li:nth-child(5) span {
 	background-image: url(http://i.imgur.com/aJR1lP2.jpg);
 		-webkit-animation-delay: 24s;
 		-moz-animation-delay: 24s;
@@ -458,43 +460,43 @@ h3:first-line{
 		-ms-animation-delay: 24s;
 	animation-delay: 24s;
 }
-.rm-slideshow li:nth-child(6) span {
-	background-image: url(http://i.imgur.com/acSq47H.jpg);
+.xxx-slideshow li:nth-child(6) span {
+	background-image: url(http://i.imgur.com/unb8SIj.jpg);
 		-webkit-animation-delay: 30s;
 		-moz-animation-delay: 30s;
 		-o-animation-delay: 30s;
 		-ms-animation-delay: 30s;
 	animation-delay: 30s;
 }
-.rm-slideshow li:nth-child(2) div {
+.xxx-slideshow li:nth-child(2) div {
 		-webkit-animation-delay: 6s;
 		-moz-animation-delay: 6s;
 		-o-animation-delay: 6s;
 		-ms-animation-delay: 6s;
 	animation-delay: 6s;
 }
-.rm-slideshow li:nth-child(3) div {
+.xxx-slideshow li:nth-child(3) div {
 		-webkit-animation-delay: 12s;
 		-moz-animation-delay: 12s;
 		-o-animation-delay: 12s;
 		-ms-animation-delay: 12s;
 	animation-delay: 12s;
 }
-.rm-slideshow li:nth-child(4) div {
+.xxx-slideshow li:nth-child(4) div {
 		-webkit-animation-delay: 18s;
 		-moz-animation-delay: 18s;
 		-o-animation-delay: 18s;
 		-ms-animation-delay: 18s;
 	animation-delay: 18s;
 }
-.rm-slideshow li:nth-child(5) div {
+.xxx-slideshow li:nth-child(5) div {
 		-webkit-animation-delay: 24s;
 		-moz-animation-delay: 24s;
 		-o-animation-delay: 24s;
 		-ms-animation-delay: 24s;
 	animation-delay: 24s;
 }
-.rm-slideshow li:nth-child(6) div {
+.xxx-slideshow li:nth-child(6) div {
 		-webkit-animation-delay: 30s;
 		-moz-animation-delay: 30s;
 		-o-animation-delay: 30s;
@@ -702,12 +704,12 @@ h3:first-line{
 	100% { opacity: 0 }
 }
 /* Show at least something when animations not supported */
-.no-cssanimations .rm-slideshow li span{
+.no-cssanimations .xxx-slideshow li span{
 	opacity: 1;
 }
 @media screen and (max-width: 1140px) { 
-	.rm-slideshow li div h3 { font-size: 100px }
+	.xxx-slideshow li div h3 { font-size: 100px }
 }
 @media screen and (max-width: 600px) { 
-	.rm-slideshow li div h3 { font-size: 50px }
+	.xxx-slideshow li div h3 { font-size: 50px }
 }
